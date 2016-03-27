@@ -3,6 +3,7 @@
 *Project 2 of Metis Data Science Bootcamp.* Problem statement below:  
 
 Using information we scrape from the web, can we build linear regression models from which we can learn about the movie industry?
+___
 
 I chose to focus on movies "Based on a true story" to determine which features predict success, as measured by Worldwide Gross. Using BeautifulSoup, I scraped movie data from IMDB.com, Boxofficemojo.com, and Thenumbers.com on the following features:
 
@@ -27,5 +28,5 @@ I performed OLS Regression using StatsModels and eliminated features that had an
 2) **web_scraping.ipynb** shows the process of scraping movie data from the 3 websites  
 3) **model_testing.ipynb** shows the process of evaluating linear regression models and plotting feature relationships  
 
-The presentation for this project can be found [here](https://drive.google.com/drive/folders/0B6z8C5E5OjF8eTYyeTZ0TG9wSW8).
+The **presentation** for this project can be found [here](https://drive.google.com/drive/folders/0B6z8C5E5OjF8eTYyeTZ0TG9wSW8) and the associated **blog post** can be found [here](https://jamiefradkin.wordpress.com/2016/01/30/metis-project-2-predicting-box-office-performance/).
 
