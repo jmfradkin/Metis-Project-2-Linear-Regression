@@ -28,5 +28,5 @@ I performed OLS Regression using StatsModels and eliminated features that had an
 2) `web_scraping.ipynb` shows the process of scraping movie data from the 3 websites  
 3) `model_testing.ipynb` shows the process of evaluating linear regression models and plotting feature relationships  
 
-The project **blog post** can be found [here](https://jamiefradkin.wordpress.com/2016/01/30/metis-project-2-predicting-box-office-performance/).
+The project **blog post** can be found [here](https://jamiefradkin.wordpress.com/2016/01/30/metis-project-2-predicting-box-office-performance/). The project presentation can be found [here] (http://www.slideshare.net/JamieFradkin/luther-presentation-60778881).
 
